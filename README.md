@@ -25,7 +25,7 @@ Mini Project 3/
 ├── demo_enhanced_bns_classifier.py # Usage examples and demonstrations
 ├── openai_enhanced_bns_classifier.py # OpenAI-enhanced version
 ├── requirements.txt              # Python dependencies
-└── README.md                     # This file
+└── streamlit_bns_app.py          # Main App file
 ```
 
 ## Installation
